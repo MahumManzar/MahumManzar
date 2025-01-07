@@ -1,9 +1,9 @@
 👋 Hi, I’m @MahumManzar
-👀 I’m interested in front-end web development, atmospheric science, and exploring innovative technologies.
-🌱 I’m currently learning advanced JavaScript frameworks like React.js and improving my skills in data visualization techniques.
-💞️ I’m looking to collaborate on projects that combine environmental science with technology, or any exciting front-end development initiatives.
-📫 How to reach me: You can reach me via email at Mahum.manzar@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/mahum-manzar.
-⚡ Fun fact: I'm passionate about playing badminton during my free time.
+👀 I’m passionate about data analysis, environmental science, and using technology to uncover meaningful insights.
+🌱 I’m currently enhancing my skills in advanced data visualization, mastering tools like Python, Tableau, and Power BI, and deepening my knowledge of statistical analysis.
+💞️ I’m actively seeking internship opportunities for Summer 2025 to gain hands-on experience and contribute to impactful projects.
+📫 How to reach me: Email me at Mahum.manzar@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/mahum-manzar.
+⚡ Fun fact: I enjoy playing badminton and love analyzing strategies to improve my game!
 
 <!---
 MahumManzar/MahumManzar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
